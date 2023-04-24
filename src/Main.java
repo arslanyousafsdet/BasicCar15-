@@ -10,5 +10,11 @@ public class Main {
         x.size="124cc";
         x.weight="6554kg";
 
+        
+        color col=new color();
+        col.colorLight="true";
+        col.colorTyre="false";
+        col.colorWindows="true";
+
     }
 }
